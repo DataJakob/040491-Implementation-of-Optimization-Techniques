@@ -21,11 +21,16 @@ namespace second
             Console.ReadLine(); 
         }
     }
+
+
+
+
     //*************************************************
-    
+    // Exercise 2b
     internal class exercise_2b
     {
-        static void Main(string[] args)
+        static void Display()
+        //static void Main(string[] args)
         {
             Console.WriteLine("Insert points of the exercise:");
             int pointsExercise = Convert.ToInt32(Console.ReadLine());
@@ -48,6 +53,71 @@ namespace second
             Console.ReadLine();
         }
     }
+
+
+
+
+    //*************************************************
+    // Exercise 2c
+    internal class exercise_2c
+    {
+        static void Dispaly()
+        //static void Main(string[] args) 
+        {
+            double sum = 0;
+            double[] salesEu = { 1.0, 1.5, 2.0, 2.5, 3.0 };
+            double[] salesUs = { 4.2, 1.7, 8.2, 5.0, 1.7 };
+
+
+            int i = 0;
+            int length = salesEu.GetLength(0);
+
+            do
+            {
+                sum += salesEu[i];
+                sum += salesUs[i];
+                i++;
+                //Console.WriteLine(sum);
+            } while (i < length);
+            Console.WriteLine($"The sum is: {sum}.");
+            Console.ReadLine();
+        }
+    }
+
+
+
+
+    //*************************************************
+    // Exercise 2d
+    internal class exercise_2d
+    {
+        static void Main(string[] args)
+        {
+            double sumFor = 0;
+            double sumForeach = 0;
+            double[] salesPerUnit = { 1.0, 1.5, 2.0, 2.5, 3.0 };
+
+            for (int i = 0; i < salesPerUnit.GetLength(0); i++)
+            {
+                sumFor += salesPerUnit[i];
+            }
+            Console.WriteLine(sumFor);
+
+            foreach (double value in salesPerUnit)
+            {
+                sumForeach += 1;
+            }
+            Console.WriteLine(sumForeach);
+            Console.ReadLine();
+
+        }
+    }
+
+
+
+    //*************************************************
+    // Example exercise 1
+    // Bad formulate exercise!
 
 
 
