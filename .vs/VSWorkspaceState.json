@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\Exercises",
-    "\\Exercises\\first"
+    "\\Exercises\\third",
+    "\\Exercises\\third\\obj",
+    "\\Exercises\\third\\obj\\Debug",
+    "\\Exercises\\third\\Properties",
+    "\\test"
   ],
-  "SelectedNode": "\\Exercises\\third",
+  "SelectedNode": "\\Exercises\\third\\obj\\Debug\\third.pdb",
   "PreviewInSolutionExplorer": false
 }

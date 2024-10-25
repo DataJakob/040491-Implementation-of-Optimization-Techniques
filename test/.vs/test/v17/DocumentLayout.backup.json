@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jakob\\source\\repos\\040491-Implementation-of-Optimization-Techniques\\",
+  "WorkspaceRootPath": "C:\\Users\\Jakob\\source\\repos\\040491-Implementation-of-Optimization-Techniques\\test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jakob\\source\\repos\\040491-Implementation-of-Optimization-Techniques\\test\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14DADAB2-BD29-4329-87DE-8BF17FFEA690}|test.csproj|c:\\users\\jakob\\source\\repos\\040491-implementation-of-optimization-techniques\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DADAB2-BD29-4329-87DE-8BF17FFEA690}|test.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,12 +29,12 @@
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jakob\\source\\repos\\040491-Implementation-of-Optimization-Techniques\\test\\Program.cs",
-              "RelativeDocumentMoniker": "test\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Jakob\\source\\repos\\040491-Implementation-of-Optimization-Techniques\\test\\Program.cs",
-              "RelativeToolTip": "test\\Program.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAowEcAAAAvAAAAAAAAAA==",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T14:56:39.464Z",
+              "WhenOpened": "2024-10-24T14:54:42.976Z",
               "EditorCaption": ""
             }
           ]

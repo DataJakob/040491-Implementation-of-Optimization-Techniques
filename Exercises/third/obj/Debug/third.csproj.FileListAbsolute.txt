@@ -1,0 +1,7 @@
+C:\Users\Jakob\Source\Repos\040491-Implementation-of-Optimization-Techniques\Exercises\third\obj\Debug\third.csproj.AssemblyReference.cache
+C:\Users\Jakob\Source\Repos\040491-Implementation-of-Optimization-Techniques\Exercises\third\obj\Debug\third.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\Source\Repos\040491-Implementation-of-Optimization-Techniques\Exercises\third\bin\Debug\third.exe.config
+C:\Users\Jakob\Source\Repos\040491-Implementation-of-Optimization-Techniques\Exercises\third\bin\Debug\third.exe
+C:\Users\Jakob\Source\Repos\040491-Implementation-of-Optimization-Techniques\Exercises\third\bin\Debug\third.pdb
+C:\Users\Jakob\Source\Repos\040491-Implementation-of-Optimization-Techniques\Exercises\third\obj\Debug\third.exe
+C:\Users\Jakob\Source\Repos\040491-Implementation-of-Optimization-Techniques\Exercises\third\obj\Debug\third.pdb
