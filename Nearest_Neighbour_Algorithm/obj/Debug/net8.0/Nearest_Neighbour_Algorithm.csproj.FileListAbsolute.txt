@@ -1,0 +1,15 @@
+C:\Users\Jakob\source\repos\040491-Implementation-of-Optimization-Techniques\Nearest_Neighbour_Algorithm\bin\Debug\net8.0\Nearest_Neighbour_Algorithm.exe
+C:\Users\Jakob\source\repos\040491-Implementation-of-Optimization-Techniques\Nearest_Neighbour_Algorithm\bin\Debug\net8.0\Nearest_Neighbour_Algorithm.deps.json
+C:\Users\Jakob\source\repos\040491-Implementation-of-Optimization-Techniques\Nearest_Neighbour_Algorithm\bin\Debug\net8.0\Nearest_Neighbour_Algorithm.runtimeconfig.json
+C:\Users\Jakob\source\repos\040491-Implementation-of-Optimization-Techniques\Nearest_Neighbour_Algorithm\bin\Debug\net8.0\Nearest_Neighbour_Algorithm.dll
+C:\Users\Jakob\source\repos\040491-Implementation-of-Optimization-Techniques\Nearest_Neighbour_Algorithm\bin\Debug\net8.0\Nearest_Neighbour_Algorithm.pdb
+C:\Users\Jakob\source\repos\040491-Implementation-of-Optimization-Techniques\Nearest_Neighbour_Algorithm\obj\Debug\net8.0\Nearest_Neighbour_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakob\source\repos\040491-Implementation-of-Optimization-Techniques\Nearest_Neighbour_Algorithm\obj\Debug\net8.0\Nearest_Neighbour_Algorithm.AssemblyInfoInputs.cache
+C:\Users\Jakob\source\repos\040491-Implementation-of-Optimization-Techniques\Nearest_Neighbour_Algorithm\obj\Debug\net8.0\Nearest_Neighbour_Algorithm.AssemblyInfo.cs
+C:\Users\Jakob\source\repos\040491-Implementation-of-Optimization-Techniques\Nearest_Neighbour_Algorithm\obj\Debug\net8.0\Nearest_Neighbour_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\source\repos\040491-Implementation-of-Optimization-Techniques\Nearest_Neighbour_Algorithm\obj\Debug\net8.0\Nearest_Neighbour_Algorithm.sourcelink.json
+C:\Users\Jakob\source\repos\040491-Implementation-of-Optimization-Techniques\Nearest_Neighbour_Algorithm\obj\Debug\net8.0\Nearest_Neighbour_Algorithm.dll
+C:\Users\Jakob\source\repos\040491-Implementation-of-Optimization-Techniques\Nearest_Neighbour_Algorithm\obj\Debug\net8.0\refint\Nearest_Neighbour_Algorithm.dll
+C:\Users\Jakob\source\repos\040491-Implementation-of-Optimization-Techniques\Nearest_Neighbour_Algorithm\obj\Debug\net8.0\Nearest_Neighbour_Algorithm.pdb
+C:\Users\Jakob\source\repos\040491-Implementation-of-Optimization-Techniques\Nearest_Neighbour_Algorithm\obj\Debug\net8.0\Nearest_Neighbour_Algorithm.genruntimeconfig.cache
+C:\Users\Jakob\source\repos\040491-Implementation-of-Optimization-Techniques\Nearest_Neighbour_Algorithm\obj\Debug\net8.0\ref\Nearest_Neighbour_Algorithm.dll
